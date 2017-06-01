@@ -1,4 +1,4 @@
-var headCount = 1000; // number of heads
+var headCount = 512; // number of heads
 var heads = []; // array containing head objects
 
 var headAcclMin = 0.5;
