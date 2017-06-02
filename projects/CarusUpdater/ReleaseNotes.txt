@@ -1,0 +1,12 @@
+Version: 1.1.0.0
++ Added new feature
++ Added yet another feature
++ Added more features
+- Removed depricated screen
+- Removed something
+* fixed bug 123456 (bug description)
+* fixed bug 123457 (bug description)
+* fixed bug 123458 (bug description)
+
+Version 1.0.0.0
++ Initial release
